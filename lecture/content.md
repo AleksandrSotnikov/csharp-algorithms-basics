@@ -1,0 +1,19 @@
+# Оглавление лекций
+
+В этой папке будут размещены материалы по модулям курса C# (.NET Framework 4.8)
+
+- Lecture_module_Введение_в_C#_и_.NET_Framework
+- Lecture_module_Синтаксис_и_базовые_конструкции
+- Lecture_module_Управляющие_конструкции
+- Lecture_module_Массивы_и_коллекции
+- Lecture_module_Функции_Методы
+- Lecture_module_Классы_и_объекты
+- Lecture_module_Наследование_и_полиморфизм
+- Lecture_module_Обработка_ошибок_и_исключения
+- Lecture_module_Работа_с_файлами_и_ввод_вывод
+- Lecture_module_Основы_работы_с_окнами_WinForms
+- Lecture_module_Коллекции_и_LINQ
+- Lecture_module_Делегаты_и_события
+- Lecture_module_Основы_многопоточности
+- Lecture_module_Принципы_ООП_и_шаблоны_проектирования
+- Lecture_module_Практические_проекты_и_упражнения
